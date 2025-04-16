@@ -1,0 +1,13 @@
+{
+  "name": "space-lut",
+  "version": "1.0.0",
+  "title": "Space colors",
+  "author": "snouz",
+  "homepage": "https://github.com/snouz/space-lut",
+  "factorio_version": "2.0",
+  "description": "Changes the colors / contrast of space platforms.",
+  "dependencies": [
+    "base",
+    "? space-age"
+  ]
+}
